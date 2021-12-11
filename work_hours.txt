@@ -2,4 +2,10 @@
 2.5 Dec 2 - 19.30 to 22
 2.5 Dec 3 - 20.00 to 22.30
 7   Dec 4 - 15.00 to 22
+0   Dec 5 - Day off
+0   Dec 6 - day oof
+3   Dec 7 - 19.00 to 22
+0   Dec 8 - Day off
+3   Dec 9 - 19.00 to 22
+3.5   Dec 10 - 19.00 to 22.30
 
