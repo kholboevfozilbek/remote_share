@@ -20,7 +20,7 @@ int main()
         cout << "\nCould not open the file!" << endl;
         return -1;
     }
-        
+
     cout << "\nFILE opened successfully " << endl;
 
     while(!input_work_hours.eof())
@@ -35,7 +35,7 @@ int main()
         sum += number_float;
         outfile << line << endl;
     }
-
+    cout << line << endl;
     cout << "-----------------------------------\n";
     cout << "Total Hours:  " << sum << endl;
     outfile << "---------------------------------\n";
