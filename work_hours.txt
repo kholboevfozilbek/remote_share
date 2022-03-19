@@ -1,3 +1,8 @@
 4    04-march fri from 18.00 to 22.00
 3.5  08-march tue from 18.30 to 22.00 (Amrit has shoulder problem)
 3.5  09-march wed from 18.30 to 22.00 (Amrit has shoulder problem)
+6    10-march thu from 16.00 to 22.00 (Amrit has shoulder problem)
+6    11-march fri from 16.00 to 22.00
+8    12-march sat from 14.00 to 22.00
+4    17-march thu from 18.00 to 22.00
+4    18-march fri from 18.00 to 22.00
