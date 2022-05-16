@@ -3,3 +3,8 @@
 5    06-May Fri     from 18.00 to 23.00 (Got fight with Bosarina curva)
 7.5  07-May Sat     from 15.00 to 22.30 
 6    08-May Sun     from 16.30 to 22.30
+5.5  09-May Mon     from 16.30 to 22.00
+5    12-May Thur    from 17.30 to 22.30
+5    13-May Fri     from 17.00 to 22.00 
+3.5  15-May Sun     from 17.30 to 21.00
+
