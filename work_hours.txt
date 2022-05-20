@@ -7,4 +7,6 @@
 5    12-May Thur    from 17.30 to 22.30
 5    13-May Fri     from 17.00 to 22.00 
 3.5  15-May Sun     from 17.30 to 21.00
+6.5  19-May Thu     from 16.30 to 23.00
+6.5  20-May Fri     from 16.00 to 22.30
 
